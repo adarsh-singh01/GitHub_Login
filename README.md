@@ -15,7 +15,8 @@ To run the project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/GitHub-Login-Clone.git`
 2. Navigate to the project directory: `cd GitHub-Login-Clone`
 3. **Then Write Following Commands in Terminal:**
- ```npm init -y
+ ```
+npm init -y
 
 npm install -D tailwindcss
 
